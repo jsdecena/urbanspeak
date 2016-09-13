@@ -1,1 +1,39 @@
-/* Empty. Add your own CSS if you like */
+@import url('https://fonts.googleapis.com/css?family=Lato');
+.scroll-content {
+    padding-top: 45px;
+}
+.results-list a {
+    text-decoration: none;
+}
+.bar .title.urban-title {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+}
+.bar .title.urban-footer {
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+}
+.alert {
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 3px;
+    moz-border-radius: 3px;
+    webkit-border-radius: 3px;
+
+}
+.alert-info {
+    color: #fff !important;
+    background-color: #4a87ee !important;
+}
+.alert-success {
+    color: #fff !important;
+    background-color: #66cc33 !important;
+}
+.alert-warning {
+    color: #fff !important;
+    background-color: orange !important;
+}
+.alert-danger {
+    color: #fff !important;
+    background-color: darkred !important;
+}
