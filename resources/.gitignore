@@ -1,0 +1,6 @@
+*
+!.gitignore
+!android/*.*
+!ios/*.*
+!icon.png
+!splash.png
